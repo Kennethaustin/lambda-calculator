@@ -1,4 +1,4 @@
-import React from "react";
+import React,{useState} from "react";
 
 const SpecialButton = () => {
   return (
@@ -7,3 +7,4 @@ const SpecialButton = () => {
     </>
   );
 };
+export default SpecialButton;
